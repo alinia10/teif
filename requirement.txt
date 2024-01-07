@@ -1,0 +1,12 @@
+openpyxl==3.1.2
+scikit-learn
+stepwise-regression==1.0.3
+seaborn
+python==3.12
+pandas
+matplotlib
+numpy
+scikit-learn
+scipy
+jupyter
+
